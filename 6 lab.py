@@ -10,7 +10,7 @@ def start(message):
 
 @bot.message_handler(commands=['help'])
 def help(message):
-    bot.send_message(message.chat.id, 'Этот бот присылает тебе абсолютно случайную картинку. Для этого просто напиши /img')
+    bot.send_message(message.chat.id, 'Данный бот отправит тебе аобсолютную случайную картинку. Для этого напиши /img')
 
 @bot.message_handler(commands=['img'])
 def number(message):
