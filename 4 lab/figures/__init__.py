@@ -1,3 +1,3 @@
 from .triangle import triangle_perimeter, triangle_area
 from .square import square_perimeter, square_area 
-from .cricled import circle_area, circle_perimeter
+from .cricle import circle_area, circle_perimeter
