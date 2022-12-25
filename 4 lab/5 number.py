@@ -1,2 +1,2 @@
-from figures dimport triangle_area
+from figures import triangle_area
 triangle_area()
