@@ -1,1 +1,1 @@
-from .code import triangle_area, triangle_perimeter 
+from .code import circle_area, circle_perimeter
